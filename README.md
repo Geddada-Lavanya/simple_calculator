@@ -40,5 +40,5 @@
 ✔ Prevents division by zero
 ✔ Handles invalid inputs
 ✔ Ensures smooth execution
-## 💻 Code
+
 
